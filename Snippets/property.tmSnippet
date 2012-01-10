@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>property :${1:attribute}${2:, ${3:String}${4: #:default, :read_only, :alias, :protected, :accessible, :init_method}}
+pp$0</string>
+	<key>name</key>
+	<string>property</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>pp</string>
+	<key>uuid</key>
+	<string>EECF1784-2A5F-45DF-8E72-B63BB374F01B</string>
+</dict>
+</plist>

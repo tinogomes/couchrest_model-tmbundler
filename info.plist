@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>4DC2834C-3239-40EB-B05A-84D2B939CECC</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>4DC2834C-3239-40EB-B05A-84D2B939CECC</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>EECF1784-2A5F-45DF-8E72-B63BB374F01B</string>
+					<string>DAA4CF7C-421B-4202-A8D2-13E9C543BF5B</string>
+					<string>------------------------------------</string>
+					<string>B9B295CF-24F5-4023-8BF6-D4EF95860D1F</string>
+					<string>CB0A045F-6513-4257-9217-C88172347AE4</string>
+					<string>891D6820-C405-4869-9521-6C485FCAFE87</string>
+					<string>F67A21D9-F37E-43B2-8F2A-CBA4AD56E08E</string>
+					<string>D0308CCD-5A17-417D-B052-FA9F1A59F1BE</string>
+					<string>83DD5A9B-1C27-423D-A4FC-4011CF377169</string>
+					<string>B0B98AF4-7C53-4548-974C-D0A83F3EF7C7</string>
+					<string>47D19FBA-AADB-437A-AD5D-3A27BB507639</string>
+				</array>
+				<key>name</key>
+				<string>Model</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>CouchRest Model</string>
+	<key>ordering</key>
+	<array>
+		<string>EECF1784-2A5F-45DF-8E72-B63BB374F01B</string>
+		<string>CB0A045F-6513-4257-9217-C88172347AE4</string>
+		<string>47D19FBA-AADB-437A-AD5D-3A27BB507639</string>
+		<string>891D6820-C405-4869-9521-6C485FCAFE87</string>
+		<string>F67A21D9-F37E-43B2-8F2A-CBA4AD56E08E</string>
+		<string>83DD5A9B-1C27-423D-A4FC-4011CF377169</string>
+		<string>B0B98AF4-7C53-4548-974C-D0A83F3EF7C7</string>
+		<string>B9B295CF-24F5-4023-8BF6-D4EF95860D1F</string>
+		<string>D0308CCD-5A17-417D-B052-FA9F1A59F1BE</string>
+		<string>DAA4CF7C-421B-4202-A8D2-13E9C543BF5B</string>
+	</array>
+	<key>uuid</key>
+	<string>A2495D7B-C51D-4217-B2C3-EAF606C82614</string>
+</dict>
+</plist>
