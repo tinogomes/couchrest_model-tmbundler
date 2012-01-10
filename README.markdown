@@ -19,9 +19,31 @@
     mv tinogomes-couchrest_model-tmbundle-* CouchRest\ Model.tmbundle
     osascript -e 'tell app "TextMate" to reload bundles'
 
+## Snippets
+
+### Properties
+	pp<tab>    # => property :attribute, type
+	ppa<tab>   # => property :attribute, []
+	ppb<tab>   # => property :attribute, TrueClass
+	ppdt<tab>  # => property :attribute, Datetime
+	ppd<tab>   # => property :attribute, Date
+	ppd<tab>   # => property :attribute, Decimal
+	ppf<tab>   # => property :attribute, Float
+	pps<tab>   # => property :attribute, String
+	ppt<tab>   # => property :attribute, Time
+	times<tab> # => timestamps!
+
 ## Author
 
 * [Celestino Gomes (@tinogomes)][tinogomes]
+
+## Note on Patches/Pull Requests
+
+* Fork the project.
+* Make your feature addition or bug fix.
+* Update README with new Snippets, Commands, etc...
+* Commit
+* Send me a pull request. Bonus points for topic branches.
 
 ## License
 
