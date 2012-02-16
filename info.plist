@@ -14,9 +14,11 @@
 			<dict>
 				<key>items</key>
 				<array>
-					<string>EECF1784-2A5F-45DF-8E72-B63BB374F01B</string>
+					<string>27C5603C-4D98-4D57-8C2F-BE08B4B18FC9</string>
+					<string>B53BD33D-03E1-4A9F-967A-688EB2DC6C63</string>
 					<string>DAA4CF7C-421B-4202-A8D2-13E9C543BF5B</string>
 					<string>------------------------------------</string>
+					<string>EECF1784-2A5F-45DF-8E72-B63BB374F01B</string>
 					<string>B9B295CF-24F5-4023-8BF6-D4EF95860D1F</string>
 					<string>CB0A045F-6513-4257-9217-C88172347AE4</string>
 					<string>891D6820-C405-4869-9521-6C485FCAFE87</string>
@@ -35,6 +37,8 @@
 	<string>CouchRest Model</string>
 	<key>ordering</key>
 	<array>
+		<string>B53BD33D-03E1-4A9F-967A-688EB2DC6C63</string>
+		<string>27C5603C-4D98-4D57-8C2F-BE08B4B18FC9</string>
 		<string>EECF1784-2A5F-45DF-8E72-B63BB374F01B</string>
 		<string>CB0A045F-6513-4257-9217-C88172347AE4</string>
 		<string>47D19FBA-AADB-437A-AD5D-3A27BB507639</string>
